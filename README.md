@@ -2,7 +2,7 @@
 
 <h4 align="left">Meu nome é Vitor</h4>
 
-- 💼 Desenvolvedor **Full Stack** nas tecnologias **C# | .ASP NET Core | Angular | SQL Server**
+- 💼 Desenvolvedor **Full Stack** nas tecnologias **C# | ASP .NET Core | Angular | SQL Server**
 
 - 👩‍🎓 Cursando **Análise e Desenvolvimento de Sistemas** na Universidade São Judas Tadeu
 
