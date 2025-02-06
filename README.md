@@ -2,7 +2,7 @@
 
 # Olá! Eu sou o Vitor 👋
 
-- 💼 **Desenvolvedor .NET** especializado em **C# | ASP.NET Core | Angular | SQL Server | Microsserviços | Azure**
+- 💼 **Desenvolvedor .NET** | ASP.NET Core | Angular | SQL Server | Microsserviços | Azure**
 - 🚀 Experiência em **APIs RESTful, arquitetura de microsserviços, integrações e CI/CD com Azure DevOps**
 - 🎯 Focado em **soluções escaláveis, otimização de performance e boas práticas de desenvolvimento**
 - 💡 Conhecimento em **RabbitMQ, Docker, Kubernetes e desenvolvimento frontend com Razor Pages e Angular**
@@ -26,4 +26,4 @@
 
 ---
 
-![Snake animation](https://github.com/engenny/engenny/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/VitorPavanello/VitorPavanello/blob/output/github-contribution-grid-snake.svg)
