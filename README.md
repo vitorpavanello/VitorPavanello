@@ -2,7 +2,7 @@
 
 # Olá! Eu sou o Vitor 👋
 
-- 💼 **Desenvolvedor .NET** | ASP.NET Core | Angular | SQL Server | Microsserviços
+- 💼 **Desenvolvedor .NET** | ASP.NET Core | APIs RESTful | Microsserviços | SQL Server | Angular | Azure DevOps
 - 🚀 Experiência em **APIs RESTful, arquitetura de microsserviços, integrações e CI/CD com Azure DevOps**
 - 🎯 Focado em **soluções escaláveis, otimização de performance e boas práticas de desenvolvimento**
 - 💡 Conhecimento em **RabbitMQ, Docker e desenvolvimento frontend com Razor Pages e Angular**
